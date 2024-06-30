@@ -1,7 +1,6 @@
 package chapter5;
 
 import java.math.BigDecimal;
-import java.math.RoundingMode;
 
 public class MathExamples {
     public static int add(int intNum1, int intNum2) {
